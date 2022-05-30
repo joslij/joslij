@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<a href="https://github.com/joslij">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+
 <!--
 **joslij/joslij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
